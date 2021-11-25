@@ -1,5 +1,4 @@
-## More about . . .
-
+# More about me . . .
 
 ### 🏬 AGH Student
 [AGH main page](https://www.agh.edu.pl/)
@@ -15,7 +14,6 @@ MCU Projects in 4 Phase <br />
 ♙ [My chess profile](http://www.cr-pzszach.pl/ew/viewpage.php?page_id=1&zwiazek=&typ_czlonka=&pers_id=40968) <br />
 ♙ [My fide profile](https://ratings.fide.com/profile/21808651) <br />
 
-### 
 ### ⚽️ Sport
 * Running 🏃(mainly 10 km) <br />
 🕔 5 km - 21:37 (on Triathlon)<br />
