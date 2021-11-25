@@ -22,13 +22,13 @@ MCU Projects in 4 Phase <br />
 🔜 42.195 km <br />
 * Triathlon 🏊‍♂️ 🚴‍♂️ 🏃<br />
 🥇Iron Man Gdynia 2019 <br />
-🕔Czas: 01:34:17<br />
+🕔Time: 01:34:17<br />
 <img src="./imgs/ironman_gdynia.jpg" alt="IRONMAN Gdynia" width="400"/> <br />
 [More about Triathlon (my presentation)](https://prezi.com/p/wbagl9lst8ra/triathlon/)
 * Other team games: ⚽️, 🏀, 🏐
 
 ### Others
-🎮 Multiplayer games (Valorant, Battlefront II)
-🧩 Puzzles 
-🏔 Walking in mountains
+🎮 Multiplayer games (Valorant, Battlefront II) <br />
+🧩 Puzzles <br />
+🏔 Walking in mountains <br />
 
