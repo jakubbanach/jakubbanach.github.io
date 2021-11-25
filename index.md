@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## More about . . .
 
-You can use the [editor on GitHub](https://github.com/jakubbanach/jakubbanach.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 🏬 AGH Student
+[AGH main page](https://www.agh.edu.pl/)
 
-### Markdown
+### 🎬 Star Wars and MCU fan
+![Star Wars Logo]() <br />
+![MCU Logo]() <br />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ♚ Chess
+Club - UKS KORONA GDAŃSK 
+![]() <br />
+[My chess profile](http://www.cr-pzszach.pl/ew/viewpage.php?page_id=1&zwiazek=&typ_czlonka=&pers_id=40968) <br />
+[My fide profile](https://ratings.fide.com/profile/21808651) <br />
 
-```markdown
-Syntax highlighted code block
+### 🎮 Multiplayer games (Valorant, Battlefront II)
 
-# Header 1
-## Header 2
-### Header 3
+### ⚽️ Sport
+* Running 🏃(mainly 10 km) <br />
+🕔 5 km - 21:37 (on Triathlon)<br />
+🕔 10 km - 43:46 <br />
+🔜 20 km <br />
+🔜 42.195 km <br />
+* Triathlon 🏊‍♂️ 🚴‍♂️ 🏃<br />
+🥇Iron Man Gdynia 2019 <br />
+🕔Czas: 01:34:17<br />
+[More about Triathlon (my presentation)](https://prezi.com/p/wbagl9lst8ra/triathlon/)
+* Other team games: ⚽️, 🏀, 🏐
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jakubbanach/jakubbanach.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
