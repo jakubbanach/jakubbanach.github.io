@@ -1,5 +1,20 @@
 # More about me . . .
 
+### My team project with GitY
+<img src="./imgs/GitY-2048.png" alt="Club logo" width="200"/> <br />
+Together with [kingawr123](https://kingawr123.github.io),
+[jakubbanach](https://jakubbanach.github.io),
+[MilSmo](https://milsmo.github.io) and 
+[NarzeKajka](https://narzekajka.github.io) 
+we created an ‘alpha’ version of the popular game called 2048. 
+This game is some kind of a kludge. You don’t have to worry 
+about any special equipment or hardware since everything happens
+ in the computer console. In the future, as we become more advanced programmers,
+we are planning to improve the interface and correct errors. 
+We encourage you to give our game a try!
+Don’t forget to share your opinion in the [survey](https://forms.gle/8LsUe4iHzi6yNTHv7).
+Thanks a lot! 
+
 ### 🏬 AGH Student
 [AGH main page](https://www.agh.edu.pl/)
 
