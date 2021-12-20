@@ -3,7 +3,6 @@
 ### My team project with GitY
 <img src="./imgs/GitY-2048.png" alt="Club logo" width="500"/> <br />
 Together with [kingawr123](https://kingawr123.github.io),
-[jakubbanach](https://jakubbanach.github.io),
 [MilSmo](https://milsmo.github.io) and 
 [NarzeKajka](https://narzekajka.github.io) 
 we created an ‘alpha’ version of the popular game called 2048. 
