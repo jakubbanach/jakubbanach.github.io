@@ -1,7 +1,15 @@
 # More about me . . .
 
-### My team project with GitY
-<img src="./imgs/GitY-2048.png" alt="Club logo" width="500"/> <br />
+### My projects on [GitHub](https://github.com/jakubbanach)
+#### [Triangle Types](https://github.com/jakubbanach/Project-Triangle-Types)
+<img src="./imgs/TriangleProjectPreview.png" alt="Triangles" width="500"/> <br />
+
+#### [Team project -> follify](https://github.com/jakubbanach/follify)
+<img src="./imgs/follify.png" alt="Follify"> <br />
+As part of Software Engineering project our group: [Oloqq](https://github.com/Oloqq), [MarcinZ20](https://github.com/MarcinZ20) and Jan Tyc created an application called "Follify" -> Playlist Manager for Spotify.
+
+#### [My team project with GitY](https://github.com/jakubbanach/ASCIII-Game-2048)
+<img src="./imgs/GitY-2048.png" alt="2048" width="500"/> <br />
 Together with [kingawr123](https://kingawr123.github.io),
 [MilSmo](https://milsmo.github.io) and 
 [NarzeKajka](https://narzekajka.github.io) 
